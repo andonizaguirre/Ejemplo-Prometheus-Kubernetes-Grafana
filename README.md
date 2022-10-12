@@ -2,6 +2,6 @@
 
 Implementacion completa del stack de monitorizacion Prometheus y su configuracion para un correcto funcionameinto en un cluster de Kubernetes.
 
-La idea de este repostiorio es comprender cuales son los componenete involucrados y cual es la utilidad del sistema.
+La idea de este repositorio es comprender cuales son los componentes involucrados y cual es la utilidad del sistema.
 
-Este repositorio contiene cuales son los comandos necesarios para la instalacion, asi como los archivos de manifiesto generados para los principales componentes del stack.
+Este repositorio contiene los comandos necesarios para la instalacion, asi como los archivos de manifiesto generados para los principales componentes del stack.
